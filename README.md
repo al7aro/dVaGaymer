@@ -4,7 +4,6 @@
 [![](https://badgen.net/badge/icon/git/orange?icon=git&label)](https://github.com/dVaGaymer)
 [![](https://img.shields.io/badge/42-student-blueviolet)](https://profile.intra.42.fr/users/alopez-g)
 
-[![alopez-g's 42 stats](https://badge42.vercel.app/api/v2/cl9ibc15y00300gmk73pme7lf/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 ##
 ```c
 void	_program(void){}
